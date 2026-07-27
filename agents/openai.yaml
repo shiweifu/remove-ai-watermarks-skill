@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remove AI Watermarks"
+  short_description: "Inspect and clean AI provenance signals from images you own."
+  default_prompt: "Use $remove-ai-watermarks to inspect and clean provenance signals from an image I own."
